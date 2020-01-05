@@ -58,5 +58,6 @@ class Song
       new_hash[h] = 1
     end 
     end
+    new_hash
   end
 end
